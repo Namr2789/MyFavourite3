@@ -1,0 +1,11 @@
+body{
+  text-align:center;
+  background-color:aqua;
+}
+p{
+  font-size:25px;
+}
+img{
+    width: 620px;
+    height: 400px;
+}
